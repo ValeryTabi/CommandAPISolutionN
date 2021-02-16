@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\CommandAPI",
+    "\\src\\CommandAPI\\Controllers"
+  ],
+  "SelectedNode": "\\src\\CommandAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
